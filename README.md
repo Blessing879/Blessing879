@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-I'm a **software engineer and cybersecurity specialist** based in [City, Country]. I design and build reliable software, then test it the way an attacker would, so the systems I deliver are secure by design, not patched afterwards.
+I'm a **software engineer and cybersecurity specialist** based in [Barnaul,Russia]. I design and build reliable software, then test it the way an attacker would, so the systems I deliver are secure by design, not patched afterwards.
 
 - 🔧 **Engineering:** backend services, APIs, automation and cloud-based systems
 - 🛡️ **Security:** secure code review, vulnerability assessment, threat modelling and incident response
@@ -85,9 +85,9 @@ I'm a **software engineer and cybersecurity specialist** based in [City, Country
 
 ## 🏅 Certifications and training
 
-- [Certification name, e.g. CompTIA Security+] · [year]
-- [Certification name] · [year]
-- **Practice platforms:** [Hack The Box profile link] · [TryHackMe profile link]
+- [Certified Information Systems Security Professional (CISSP)] · 
+- [Certified Ethical Hacker (CEH) – v12]
+- **Practice platforms:** [Hack The Box ] · [TryHackMe ]
 
 ---
 
