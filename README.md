@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+secure,+scalable+software;Finding+vulnerabilities+before+attackers+do;Security+built+in+from+the+first+commit)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exaviour36@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=exaviour36@gmail.com&su=Portfolio%20enquiry)
 [![CV](https://img.shields.io/badge/Download-CV-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([link-to-your-cv-pdf])
 ![Profile views](https://komarev.com/ghpvc/?username=Blessing879&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
